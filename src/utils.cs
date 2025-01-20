@@ -8,4 +8,8 @@ public class Utils
     {
         return n + m;
     }
+    public double divide_numbers(int n, int m) 
+    { 
+        return n / m;
+    }
 }
