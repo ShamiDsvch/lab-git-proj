@@ -12,4 +12,8 @@ public class Utils
     { 
         return n / m;
     }
+    public int subtract_numbers(int n, int m)
+    {
+        return n - m;
+    }
 }
